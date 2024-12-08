@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/YNCX_logo_hexa.svg" alt="YouCoinX Documentation" width="200"/>
+  <img src="assets/YNCX_logo_hexa.svg" alt="YouCoinX Documentation" width="200"/>
   <h1>YouCoinX Documentation</h1>
 </div>
 
