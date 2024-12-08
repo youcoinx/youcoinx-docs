@@ -14,16 +14,6 @@ Welcome to the official documentation of YouCoinX, the first token backed by ver
 - [Tokenomics](whitepaper/tokenomics.md)
 - [Milestone System](whitepaper/milestone-system.md)
 
-### Technical Documentation
-- [Smart Contracts](technical/smart-contracts.md)
-- [Architecture](technical/architecture.md)
-- [Security](technical/security.md)
-
-### User Guides
-- [Getting Started](guides/getting-started.md)
-- [Milestone Validation](guides/milestone-validation.md)
-- [Wallet Setup](guides/wallet-setup.md)
-
 ## 🔗 Quick Links
 - [Website](https://youcoinx.com)
 - [Contract on BscScan](https://bscscan.com/address/0x6481125224efffDFD41A158b3DBdD8D9D8578978#code)
